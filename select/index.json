@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Back Door",
   "base_artist": "Stray Kids",
-  "createdAt": "2026-03-13T13:06:32.415692Z",
+  "createdAt": "2026-03-25T05:19:41.088968Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Stray Kids",
       "has_synced": false,
       "path": "select/pl_01_Back_Door_Stray_Kids.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Back Door",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/localdb_01_Back_Door_Stray_Kids.txt",
+      "repo_name": "WAGlb7u9nqE"
     }
   ]
 }
